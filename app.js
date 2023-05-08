@@ -1,9 +1,9 @@
 function parking() {
 
-    var user = document.querySelector('#user').value
-    var inp = document.querySelector('#inp').value
-    user = document.querySelector('#user').innerHTML  = ''
-    inp = document.querySelector('#inp').innerHTML  = ''
+    // var user = document.querySelector('#user').value
+    // var inp = document.querySelector('#inp').value
+    // user = document.querySelector('#user').innerHTML  = ''
+    // inp = document.querySelector('#inp').innerHTML  = ''
     var parkingObj = [
         {
             bookTime: '03:00 PM',
